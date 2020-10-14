@@ -1,11 +1,9 @@
 estoy practicando solo
-<<<<<<< HEAD
 commit 1
 2423
 4354
 4533
 joel cedeño asuncion
-=======
 esta el la segunda cabezera.
 1
 2
@@ -17,4 +15,3 @@ esta el la segunda cabezera.
 8
 9
 0
->>>>>>> cabezera
