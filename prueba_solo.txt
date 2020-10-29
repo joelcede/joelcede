@@ -1,9 +1,10 @@
 Voy a hacer un merge
-estoy practicando solo
+Estoy practicando solo
+Hola que tal?
 1
 2
 3
 4
 5
-estoy eh github
-se creo una llave publica y una privada
+Estoy eh github
+Se creo una llave publica y una privada
