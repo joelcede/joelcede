@@ -1,6 +1,7 @@
 # Como utilizo github?
 > - No tengo idea pero se siente muy bien experimentar cosas nuevas.
-> - Esto es una prueba, estoy probando github.
+> -Estoy probando github.
+
 > Muchas gracias :smile:.
 
 ------------
@@ -11,7 +12,7 @@
  
 int main () 
 {
-	std::cout << "Hola github, te agregue a mi guantelete" << std::endl;
+	std::cout << "Hola github, te agregue a mi guantelete xd" << std::endl;
     return 0;
 }
 ```
