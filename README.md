@@ -11,7 +11,7 @@
  
 int main () 
 {
-	std::cout << "Hola github, te agregue a mi guantelete" << std::endl;
+	std::cout << "Hola github, te agregue a mi guantelete xd" << std::endl;
     return 0;
 }
 ```
