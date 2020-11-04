@@ -1,8 +1,6 @@
 # Como utilizo github?
 > - No tengo idea pero se siente muy bien experimentar cosas nuevas.
-
-> -Estoy probando github.
-
+> - Esto es una prueba, estoy probando github.
 > Muchas gracias :smile:.
 
 ------------

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Modifique el documento de este blog de notas.
 y se agregaron mas cosas.
 
@@ -6,3 +7,6 @@ hola, me quieres?
 no, por feo xd
 
 a bueno te me cuidas master
+=======
+esto? es para hacer un merge? xd ok no aiudaaa 
+>>>>>>> cabezera
