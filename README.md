@@ -1,17 +1,5 @@
-# Como utilizo github?
-> - No tengo idea pero se siente muy bien experimentar cosas nuevas.
-> - Esto es una prueba, estoy probando github.
-> Muchas gracias :smile:.
+👋 Hi, I am Joel Cedeño
 
-------------
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelcede&show_icons=true&theme=onedark)
 
-`Me llamo joel y me creo hacker xd`
-```cpp
-#include <iostream>
- 
-int main () 
-{
-	std::cout << "Hola github, te agregue a mi guantelete xd" << std::endl;
-    return 0;
-}
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelcede&theme=onedark&layout=compact)](https://github.com/joelcede/prueba)
