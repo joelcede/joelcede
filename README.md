@@ -5,6 +5,6 @@
 
 
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=joelcede&show_icons=true&theme=onedark">
+    <img src="https://github-readme-stats.vercel.app/api?username=joelcede&show_icons=true&theme=onedark"><br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcede&theme=onedark&layout=compact)](https://github.com/joelcede/prueba">
 </p>
